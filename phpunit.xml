@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit bootstrap="./vendor/autoload.php">
+    <php>
+        <env name="APP_ENV" value="testing" force="true"/>
+    </php>
+</phpunit>
